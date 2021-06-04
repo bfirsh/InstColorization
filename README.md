@@ -1,6 +1,8 @@
 # [CVPR 2020] Instance-aware Image Colorization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
+[Run this model on Replicate](https://beta.replicate.ai/ericsujw/InstColorization)
+
 ### [[Paper](https://arxiv.org/abs/2005.10825)] [[Project Website](https://ericsujw.github.io/InstColorization/)] [[Google Colab](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)]
 
 <p align='center'>
@@ -12,8 +14,8 @@ Image colorization is inherently an ill-posed problem with multi-modal uncertain
 
 **Instance-aware Image Colorization**
 <br/>
-[Jheng-Wei Su](https://github.com/ericsujw), 
-[Hung-Kuo Chu](https://cgv.cs.nthu.edu.tw/hkchu/), and 
+[Jheng-Wei Su](https://github.com/ericsujw),
+[Hung-Kuo Chu](https://cgv.cs.nthu.edu.tw/hkchu/), and
 [Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/)
 <br/>
 In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
@@ -74,7 +76,7 @@ All the colorized results would save in `results` folder.
 Please follow this [tutorial](README_TRAIN.md) to train the colorization model.
 
 ## License
-This work is licensed under MIT License. See [LICENSE](LICENSE) for details. 
+This work is licensed under MIT License. See [LICENSE](LICENSE) for details.
 
 ## Citation
 If you find our code/models useful, please consider citing our paper:
