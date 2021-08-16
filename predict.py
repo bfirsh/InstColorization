@@ -2,7 +2,7 @@ import cog
 from pathlib import Path
 from models.colorize import Colorizer
 
-class InstColorizationModel(cog.Model):
+class InstColorizationPredictor(cog.Predictor):
     def setup(self):
         self.colorizer = Colorizer()
 

@@ -10,7 +10,7 @@ import time
 from pathlib import Path
 import math
 
-os.environ["FVCORE_CACHE"] = "/code/fvcore_cache"
+os.environ["FVCORE_CACHE"] = "/src/fvcore_cache"
 
 import torch
 import torchvision
